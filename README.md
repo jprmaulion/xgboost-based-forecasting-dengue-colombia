@@ -43,7 +43,7 @@ This project implements a machine learning approach to forecast weekly dengue ca
 ## Graphical summary
 
 
-![Forecast Curve](forecasted-dengue-colombia.png)
+![Forecast Curve](forecasted-dengue-colombia.PNG)
 
 *Figure*: Weekly observed dengue cases in Magdalena, Colombia during 2022 (solid line) and the model’s forecasted cases for the subsequent 13 weeks (dashed line with red markers), illustrating near-term predicted trends.
 ---
