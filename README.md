@@ -13,7 +13,7 @@ This project implements a machine learning approach to forecast weekly dengue ca
 ## Data
 
 - Weekly reported dengue case counts from Colombian health authorities.
-- Regions covered: Magdalena and Cúcuta (2022 data).
+- Regions covered: Magdalena (2022 data).
 - Additional seasonal and temporal features generated.
 
 ---
